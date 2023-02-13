@@ -13,6 +13,10 @@ public class BaseClass {
 	public void createdNewBranch(){
 		System.out.println("das craeted new branch fro practice");
 	}
+
+	public void toverifyconflict(){
+		System.out.println("conflict");
+	}
 	
 
 }
