@@ -10,5 +10,9 @@ public class BaseClass {
 	public void personx(){
 		System.out.println("person x changes");
 	}
+	public void createdNewBranch(){
+		System.out.println("das craeted new branch fro practice");
+	}
+	
 
 }
