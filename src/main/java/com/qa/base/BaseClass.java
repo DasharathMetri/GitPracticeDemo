@@ -14,5 +14,11 @@ public class BaseClass {
 		System.out.println("das craeted new branch fro practice");
 	}
 	
+	public void abc(){
+		System.out.println("das");
+	}
+	
+	
+	
 
 }
