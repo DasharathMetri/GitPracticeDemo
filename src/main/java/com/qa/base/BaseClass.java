@@ -18,5 +18,11 @@ public class BaseClass {
 		System.out.println("conflict");
 	}
 	
+	public void abc(){
+		System.out.println("das");
+	}
+	
+	
+	
 
 }
